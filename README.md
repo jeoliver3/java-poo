@@ -5,7 +5,7 @@
 
 <h2>Curso que faz parte da formação Alura + ONE - Oracle Next Education</h2>
 
-<a href="Certificado Java e POO.pdf">Certificado</a>
+<a href="https://cursos.alura.com.br/user/jeoliver39/degree-java-turma4-one-515010/certificate">Certificado</a>
 
 <h3>Conteúdo do curso:</h3>
 
